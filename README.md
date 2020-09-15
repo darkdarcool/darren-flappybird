@@ -31,4 +31,5 @@ This image may take a few minutes to refresh.
 * for PXT/arcade
 * for PXT/arcade
 (The metadata above is needed for package search.)
+[![Run on Repl.it](https://repl.it/badge/github/darkdarcool/darren-flappybird)](https://repl.it/github/darkdarcool/darren-flappybird)
 
